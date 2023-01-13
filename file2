@@ -1,1 +1,6 @@
 Creating new file to push in the remote repository
+checking pull command by modifying data 
+modify in remote repository 
+whether showing in local repository or not
+ow we have to pull from remote to master 
+command git pull origin master
